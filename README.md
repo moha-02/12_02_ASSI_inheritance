@@ -71,4 +71,7 @@ SELECT * FROM sales2023;
 
 Tos sump up, since postgrepsql is an POO language we can manage data throught the benefits of it. It allows handfull metods to actualize data in the future and to have it organised. Also allows us doing the same with the minimum script writing.
 
+## BY
 
+- Mohammed Salhi Biade
+- Fabián Ossai Ossai 
