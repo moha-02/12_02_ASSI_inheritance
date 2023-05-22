@@ -1,5 +1,5 @@
 # inheritance_postgresql
-Small ecample and aplication of inheritance in postgresql
+Example and aplication of inheritance in postgresql
 
 ## OBJECTIVES🎯
 
