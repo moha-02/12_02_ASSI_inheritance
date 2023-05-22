@@ -13,7 +13,7 @@ Small ecample and aplication of inheritance in postgresql
 ## WHAT IS INHERITANCE IN  PostgreSQL❓
 
 In programming inheritance refers to the ability of an object to take on one or more characteristics from other classes of objects. The characteristics inherited are usually instance variables or member functions. An object that inherits these characteristics is known as a subclass.
-In PostgreSql it's no diferent, it allows the capacity of having child tables like in any other POO language.
+In PostgreSql it's no diferent, it has the capacity of having child tables like in any other POO language. This is known as ORDBMS(object–relational database management system), a DBMS that allows us to use a object oriented structure in managing the database.
 
 ## DATABASE EXAMPLE 📚
 
