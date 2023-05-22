@@ -60,6 +60,13 @@ SELECT * FROM sales2023;
 ~~~
 <img width="284" alt="image" src="https://github.com/moha-02/inheritance_postgresql/assets/119495982/733f92c0-e975-4935-a366-ff05551f73f3">
 
+## INSTRUCTIONS 👷‍♂️
+
+1. Create a database to store the example
+2. Execute the sql script.
+3. Its in order 
+4. At the end of the script there are the querys to see th functionality od the database
+
 ## CONCLUSION 👨‍💻
 
 Tos sump up, since postgrepsql is an POO language we can manage data throught the benefits of it. It allows handfull metods to actualize data in the future and to have it organised. Also allows us doing the same with the minimum script writing.
